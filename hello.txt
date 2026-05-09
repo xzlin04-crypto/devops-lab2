@@ -1,1 +1,2 @@
 Hello Git! This is my first commit to devops-lab2.
+This is the second update!
